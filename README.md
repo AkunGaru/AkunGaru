@@ -5,9 +5,6 @@
 </p>
 <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=radical"></a></p>
 </div>
-<div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
-</div>
 <br>
 </p>
 <div>
