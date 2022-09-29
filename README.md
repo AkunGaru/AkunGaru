@@ -6,7 +6,7 @@
 <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=radical"></a></p>
 </div>
 </p>
-•
+
 </div>
 </p>
 <a href="https://trakteer.id/frons?quantity=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
