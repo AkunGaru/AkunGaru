@@ -10,6 +10,8 @@
 <div>
 </p>
 </p>
+<a href="https://trakteer.id/frons?quantity=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
+</p>
 <h4><font size="2"><a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ"><font color="red">SUBSCRIBE YT</font>
 </h4>
 <h4><font size="2"><a href="tiktok.com/@frons_1"><font color="red">FOLLOW TT</font>
