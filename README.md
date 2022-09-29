@@ -12,7 +12,9 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ"><font color="red">SUBSCRIBE YT</font>
+</h4>
+<h4><font size="2"><a href="tiktok.com/@frons_1"><font color="red">FOLLOW TT</font>
 </h4>
 </p>
 </p>
