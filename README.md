@@ -3,7 +3,10 @@
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <br>
 </p>
-<p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=radical"></a></p>
+<p align="center"><img src="https://www.codewars.com/users/AkunGaru/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=monokai&langs_count=12"/><br />
 </div>
 </p>
 
