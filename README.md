@@ -18,6 +18,9 @@
 <h4><font size="2"><a href="tiktok.com/@frons_1"><font color="red">FOLLOW TT</font>
 </h4>
 </p>
+<br>
+</p>
+<div>
 ⏣━━━━━━━━━━━━━━━━━━━━⏣
 </p>
 <p align="center">
