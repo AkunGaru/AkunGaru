@@ -4,9 +4,9 @@
 <br>
 </p>
 <p align="center"><img src="https://www.codewars.com/users/Frons/badges/large"/><br /><br />
- <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=radical"></a></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=radical&langs_count=12"/><br />
+ <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=blue-green"></a></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=blue-green&langs_count=12"/><br />
 </div>
 </p>
 
