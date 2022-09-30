@@ -13,10 +13,9 @@
 </p>
 <a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="15" style="border:0px;height:25px;" alt="SUBSCRIBE"></a>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ"><font color="red">SUBSCRIBE YT</font>
-</h4>
-<h4><font size="2"><a href="tiktok.com/@frons_1"><font color="red">FOLLOW TT</font>
-</h4>
+<a href="tiktok.com/@frons_1" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="15" style="border:0px;height:25px;" alt="FOLLOW"></a>
+</p>
+
 </p>
 ⏣━━━━━━━━━━━━━━━━━━━━
 </p>
