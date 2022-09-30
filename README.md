@@ -13,7 +13,7 @@
 </p>
 <a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="15" style="border:0px;height:25px;" alt="SUBSCRIBE"></a>
 </p>
-<a href="tiktok.com/@frons_1" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="15" style="border:0px;height:25px;" alt="FOLLOW"></a>
+<a href="https://tiktok.com/@frons_1" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="15" style="border:0px;height:25px;" alt="FOLLOW"></a>
 </p>
 
 </p>
