@@ -9,11 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=radical&langs_count=12"/><br />
 </div>
 </p>
+
+⏣━━━━━━━━━━━━━━━━━━━━
+
 <a href="https://trakteer.id/frons?quantity=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
 </p>
-<a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="15" style="border:0px;height:25px;" alt="SUBSCRIBE"></a>
-</p>
 <a href="https://tiktok.com/@frons_1" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="15" style="border:0px;height:25px;" alt="FOLLOW"></a>
+</p>
+<a href="https://youtube.com/channel/UCDhIyau9b9Ury6Lc2wxMTDQ" target="_blank"><img id="wse-buttons-preview" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="15" style="border:0px;height:25px;" alt="SUBSCRIBE"></a>
 </p>
 
 </p>
