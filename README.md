@@ -10,7 +10,7 @@
 </div>
 </p>
 
-⏣━━━━━━━━━━━━━━━━━━━━
+⏣━━━━━━━━━━━━━━━━━━━━━
 
 <a href="https://trakteer.id/frons?quantity=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
 </p>
@@ -20,7 +20,7 @@
 </p>
 
 </p>
-⏣━━━━━━━━━━━━━━━━━━━━
+⏣━━━━━━━━━━━━━━━━━━━━━
 </p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
@@ -29,7 +29,7 @@
 
 
 
-> ⏣━━━━━━━━━━━━━━━━━
+> ⏣━━━━━━━━━━━━━━━━━━
 
 </div>
 </body>
