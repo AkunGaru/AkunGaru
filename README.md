@@ -1,7 +1,14 @@
 
   <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<h1 align="center">☣ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 ☣</h1>
 <br>
+<p align="center">
+
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄;𝐌𝐲+𝐧𝐚𝐦𝐞+𝐢𝐬+ᴹᴿ᭄ 𝐅𝐫𝐨𝐧𝐬乂𝐛𝐨𝐭𝐙࿐;𝐅𝐨𝐥𝐥𝐨𝐰+𝐦𝐲+𝐠𝐡𝐢𝐭𝐡𝐮𝐛;𝐃𝐨𝐧'𝐭+𝐟𝐨𝐫𝐠𝐞𝐭+𝐭𝐨+𝐠𝐢𝐯𝐞+𝐚+𝐬𝐭𝐚𝐫;🗿" alt="budii">
+
+</p>
+<div align="center">
+  <p align="center">
 </p>
 <p align="center"><img src="https://www.codewars.com/users/Frons/badges/large"/><br /><br />
  <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=midnight-purple"></a></p>
