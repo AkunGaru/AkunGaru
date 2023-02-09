@@ -10,18 +10,33 @@
 <div align="center">
   <p align="center">
 </p>
-<p align="center"><img src="https://www.codewars.com/users/Frons/badges/large"/><br /><br />
+<p align="center"><img src="https://www.codewars.com/users/Frons/badges/large"/>
+
+---
+
  <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=midnight-purple"></a></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=midnight-purple"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=midnight-purple&langs_count=12"/><br />
 </div>
 </p>
 
-## ◑ ━━━━━ ▣ ━━━━━ ◐
+---
+
+
+<p align="center">
+
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=★" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬" alt="budii">
+
+</p>
+
+---
 
 <p align=""><a href="https://github.com/AkunGaru/AUDIO-TO-VN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=AUDIO-TO-VN&theme=chartreuse-dark"></a></p>
 <p align=""><a href="https://github.com/AkunGaru/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=VC-MusicINDO&theme=chartreuse-dark"></a></p>
 <p align=""><a href="https://github.com/AkunGaru/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=RPG-MD-V5&theme=chartreuse-dark"></a></p>
+
+---
 
 ⏣━━━━━━━━━━━━━━━━━━━━━
 
@@ -34,12 +49,13 @@
 
 </p>
 ⏣━━━━━━━━━━━━━━━━━━━━━
-</p>
+
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
 > ⏣━━━━━━━━━━━━━━━━━━
