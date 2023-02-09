@@ -12,10 +12,16 @@
 </p>
 <p align="center"><img src="https://www.codewars.com/users/Frons/badges/large"/><br /><br />
  <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=midnight-purple"></a></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=midnight-purple"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=midnight-purple&langs_count=12"/><br />
 </div>
 </p>
+
+## ◑ ━━━━━ ▣ ━━━━━ ◐
+
+<p align=""><a href="https://github.com/AkunGaru/AUDIO-TO-VN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=AUDIO-TO-VN&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/AkunGaru/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=naze&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/AkunGaru/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=nazedev&theme=chartreuse-dark"></a></p>
 
 ⏣━━━━━━━━━━━━━━━━━━━━━
 
