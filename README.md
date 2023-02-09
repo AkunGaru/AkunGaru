@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-<h1><a href="https://github.com/AkunGaru">REPOSITORY</a></h1>
+<h1><a href="https://github.com/AkunGaru?tab=repositories">REPOSITORY</a></h1>
 </p>
 
 <p align=""><a href="https://github.com/AkunGaru/AUDIO-TO-VN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=AUDIO-TO-VN&theme=chartreuse-dark"></a></p>
