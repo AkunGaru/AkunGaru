@@ -20,8 +20,8 @@
 ## ◑ ━━━━━ ▣ ━━━━━ ◐
 
 <p align=""><a href="https://github.com/AkunGaru/AUDIO-TO-VN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=AUDIO-TO-VN&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/AkunGaru/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=naze&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/AkunGaru/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=nazedev&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/AkunGaru/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=VC-MusicINDO&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/AkunGaru/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=RPG-MD-V5&theme=chartreuse-dark"></a></p>
 
 ⏣━━━━━━━━━━━━━━━━━━━━━
 
