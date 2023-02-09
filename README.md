@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-<h1><a href="https://github.com/AkunGaru?tab=repositories">REPOSITORY</a></h1>
+<h1><a href="https://github.com/AkunGaru?tab=repositories">乂 REPOSITORY</a></h1>
 </p>
 
 <p align=""><a href="https://github.com/AkunGaru/AUDIO-TO-VN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkunGaru&repo=AUDIO-TO-VN&theme=chartreuse-dark"></a></p>
@@ -42,7 +42,7 @@
 
 ---
 
-⏣━━━━━━━━━━━━━━━━━━━━━━━━━━⏣
+⏣━━━━━━━━━━━━━━━━━━━━━━━━━⏣
 
 <a href="https://trakteer.id/frons?quantity=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
 </p>
@@ -52,7 +52,7 @@
 </p>
 
 </p>
-⏣━━━━━━━━━━━━━━━━━━━━━━━━━━⏣
+⏣━━━━━━━━━━━━━━━━━━━━━━━━━⏣
 
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
@@ -62,7 +62,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
-> ⏣━━━━━━━━━━━━━━━━━━━━
+> ⏣━━━━━━━━━━━━━━━━━━━━━━⏣
 
 </div>
 </body>
