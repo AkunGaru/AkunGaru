@@ -4,7 +4,7 @@
 <br>
 <p align="center">
 
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐇𝐢+𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞;𝐌𝐲+𝐍𝐚𝐦𝐞+𝐈𝐬+ 𝐅𝐑𝐎𝐍𝐒;𝐅𝐨𝐥𝐥𝐨𝐰+𝐦𝐲+𝐠𝐢𝐭𝐡𝐮𝐛;𝐃𝐨𝐧'𝐭+𝐟𝐨𝐫𝐠𝐞𝐭+𝐭𝐨+𝐠𝐢𝐯𝐞+𝐚+𝐬𝐭𝐚𝐫;🗿" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐇𝐢+𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞;𝐌𝐲+𝐍𝐚𝐦𝐞+𝐈𝐬+ 𝐅𝐑𝐎𝐍𝐒;𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐆𝐢𝐭𝐡𝐮𝐛;𝐀𝐧𝐝;𝐃𝐨𝐧'𝐭+𝐅𝐨𝐫𝐠𝐞𝐭+𝐓𝐨+𝐆𝐢𝐯𝐞+𝐀+𝐒𝐭𝐚𝐫𝐬;🗿" alt="budii">
 
 </p>
 <div align="center">
@@ -42,7 +42,7 @@
 
 ---
 
-⏣━━━━━━━━━━━━━━━━━━━━━━━━━⏣
+⏣━━━━━━━━━━━━━━━━━━━━➣
 
 <a href="https://trakteer.id/frons?quantity=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
 </p>
@@ -52,7 +52,7 @@
 </p>
 
 </p>
-⏣━━━━━━━━━━━━━━━━━━━━━━━━━⏣
+⏣━━━━━━━━━━━━━━━━━━━━➣
 
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
@@ -62,7 +62,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
-> ⏣━━━━━━━━━━━━━━━━━━━━━━⏣
+> ⏣━━━━━━━━━━━━━━━━━➣
 
 </div>
 </body>
