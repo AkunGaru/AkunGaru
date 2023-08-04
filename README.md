@@ -1,10 +1,10 @@
-
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
   <body>
-<h1 align="center">☣ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 ☣</h1>
+<h1 align="center">◂ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 ▸</h1>
 <br>
 <p align="center">
 
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄;𝐌𝐲+𝐧𝐚𝐦𝐞+𝐢𝐬+ᴹᴿ᭄ 𝐅𝐫𝐨𝐧𝐬乂𝐛𝐨𝐭𝐙࿐;𝐅𝐨𝐥𝐥𝐨𝐰+𝐦𝐲+𝐠𝐢𝐭𝐡𝐮𝐛;𝐃𝐨𝐧'𝐭+𝐟𝐨𝐫𝐠𝐞𝐭+𝐭𝐨+𝐠𝐢𝐯𝐞+𝐚+𝐬𝐭𝐚𝐫;🗿" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐇𝐢+𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞;𝐌𝐲+𝐍𝐚𝐦𝐞+𝐈𝐬+ 𝐅𝐑𝐎𝐍𝐒;𝐅𝐨𝐥𝐥𝐨𝐰+𝐦𝐲+𝐠𝐢𝐭𝐡𝐮𝐛;𝐃𝐨𝐧'𝐭+𝐟𝐨𝐫𝐠𝐞𝐭+𝐭𝐨+𝐠𝐢𝐯𝐞+𝐚+𝐬𝐭𝐚𝐫;🗿" alt="budii">
 
 </p>
 <div align="center">
