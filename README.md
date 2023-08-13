@@ -4,7 +4,7 @@
 <br>
 <p align="center">
 
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐇𝐢+𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞;𝐌𝐲+𝐍𝐚𝐦𝐞+𝐈𝐬+ 𝐅𝐑𝐎𝐍𝐒;𝐅𝐨𝐥𝐥𝐨𝐰+𝐌𝐲+𝐆𝐢𝐭𝐡𝐮𝐛;𝐀𝐧𝐝;𝐃𝐨𝐧'𝐭+𝐅𝐨𝐫𝐠𝐞𝐭+𝐓𝐨+𝐆𝐢𝐯𝐞+𝐀+𝐒𝐭𝐚𝐫𝐬;🗿" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐇𝐢;🗿" alt="budii">
 
 </p>
 <div align="center">
@@ -14,10 +14,17 @@
 
 ---
 
+<details> 
+  <summary><b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐒𝐓𝐀𝐓𝐒</b></summary>
+  <br/>
+  <p align="center">
  <p align="center"><a href="https://github.com/AkunGaru"><img src="https://github-readme-stats.vercel.app/api?username=AkunGaru&show_icons=true&theme=midnight-purple"></a></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkunGaru&theme=midnight-purple"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkunGaru&layout=compact&theme=midnight-purple&langs_count=12"/><br />
 </div>
+  <p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="ag" width="700"/>
+</p>
 </p>
 
 ---
@@ -54,7 +61,7 @@
 </p>
 ⏣━━━━━━━━━━━━━━━━━━━━➣
 
-<h2 align="center">🔥 SPOTIFY 🔥</h2>
+<h2 align="center"> SPOTIFY </h2>
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
