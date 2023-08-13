@@ -6,13 +6,13 @@
 
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=𝐇𝐢;🗿" alt="budii">
 
+---
+
 </p>
 <div align="center">
   <p align="center">
 </p>
 <p align="center"><img src="https://www.codewars.com/users/Frons/badges/large"/>
-
----
 
 <details> 
   <summary><b>𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐒𝐓𝐀𝐓𝐒</b></summary>
